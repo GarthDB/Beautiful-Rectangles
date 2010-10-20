@@ -1,1 +1,0 @@
-Beautiful Rectangles is a set of templates and libraries designed to improve User Experience (UX) Design workflows and processes.
