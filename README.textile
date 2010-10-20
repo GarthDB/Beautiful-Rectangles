@@ -19,6 +19,7 @@ The library is designed to work with what a user experience designer should alre
 * Illustrator CS5
 * InDesign CS5
 * Photoshop CS5
+* Fireworks CS5
 
 h4. Credits
 
