@@ -21,6 +21,7 @@ The library is designed to work with what a user experience designer should alre
 * Photoshop CS5
 * Fireworks CS5
 
+* Omnigraffle (coming soon)
 h4. Credits
 
 The Persona Diptych Photoshop (/Personas/PersonaDiptychTemplate.psd) template was modeled, with permission, after the work done by "Jason Travis":http://www.flickr.com/photos/jasontravis/sets/72157603258446753/ 
