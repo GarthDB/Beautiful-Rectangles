@@ -2,7 +2,7 @@ h2. Beautiful Rectangles: UX Done Right
 
 Beautiful Rectangles is simple set of templates and libraries to make it a little easier to create user experience design deliverables.
 
-Robotlegs enables:
+Beautiful Rectangles enables:
 
 * Personas
 * Sitemaps
