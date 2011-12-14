@@ -1,3 +1,0 @@
-h2. Beautiful Rectangles Contributors
-
-"Beautiful-Rectangles/contributors":http://github.com/GarthDB/Beautiful-Rectangles/contributors
