@@ -2,8 +2,7 @@ h2. Beautiful Rectangles: Simple UX Templates
 
 Beautiful Rectangles is simple set of templates and libraries to make it a little easier to create user experience design deliverables.
 
-Beautiful Rectangles enables:
-
+Beautiful Rectangles promotes rapid creation of:
 * Personas
 * Sitemaps
 * Wireframes
