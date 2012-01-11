@@ -1,4 +1,4 @@
-h2. Beautiful Rectangles: UX Done Right
+h2. Beautiful Rectangles: Simple UX Templates
 
 Beautiful Rectangles is simple set of templates and libraries to make it a little easier to create user experience design deliverables.
 
@@ -19,9 +19,8 @@ The library is designed to work with what a user experience designer should alre
 * Illustrator CS5
 * InDesign CS5
 * Photoshop CS5
-* Fireworks CS5
+* Omnigraffle 5
 
-* Omnigraffle (coming soon)
 h4. Credits
 
 The Persona Diptych Photoshop (/Personas/PersonaDiptychTemplate.psd) template was modeled, with permission, after the work done by "Jason Travis":http://www.flickr.com/photos/jasontravis/sets/72157603258446753/ 
