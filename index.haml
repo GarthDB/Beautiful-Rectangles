@@ -1,0 +1,28 @@
+!!! 5
+%html
+	%head
+		%meta{:charset => 'utf-8'}
+		%title Beautiful Rectangles | Simple User Experience Design Deliverables
+		%link{:rel => "stylesheet", :media => "screen", :href => "css/main.css"}
+		%script{:src => "js/main.js", :type => "text/javascript"}
+		/[if IE]
+			%script{:src => "http://html5shiv.googlecode.com/svn/trunk/html5.js"}
+	%body
+		%header
+			%h1
+				Beautiful Rectangles
+			%nav
+				%ul
+					%li 
+						%a{ :href => '#' } Screenshots
+					%li 
+						%a{ :href => '#' } About
+					%li
+						%a{ :href => '#' } Download
+		%article.page#screenshots
+			.content Screenshots
+		%article.page#about
+			.content About
+		%article.page#download
+			.content Download
+			
