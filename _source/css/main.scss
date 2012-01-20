@@ -1,0 +1,76 @@
+@import 'reset';
+
+@mixin rounded($radius: 10px) {
+  border-radius: $radius;
+  -moz-border-radius: $radius;
+  -webkit-border-radius: $radius;
+}
+
+body {
+	background: #00A7D9;
+	font-family: 'Lato', sans-serif;
+	color: #FFF;
+}
+header.main {
+	display: block;
+	width: 364px;
+	height: 370px;
+	position: fixed;
+	right: 50%;
+	h1 {
+		width: 308px;
+		height: 97px;
+		display: block;
+		overflow: hidden;
+		float: right;
+		margin: 0 17px 20px 0;
+	}
+	h1:before {
+		content: url(../img/logo.svg);
+		display: block;
+	}
+	h2 {
+		font-size: 18px;
+		font-weight: normal;
+		text-align: right;
+		margin-right: 17px;
+	}
+	nav {
+		position: absolute;
+		bottom: 0;
+		ul{
+			list-style: none;
+			li{
+				display: inline-block;
+				margin-left: 18px;
+				background-color: #137098;
+				background-image: url(../img/nav_sprites.svg);
+				background-repeat: no-repeat;
+				min-height: 30px;
+				text-indent: 300px;
+				overflow: hidden;
+				@include rounded(15px);
+				a {
+					color: #FFF;
+					text-decoration: none;
+					display: block;
+					width: 100%;
+					height: 100%;
+				}
+			}
+			li:first-child {
+				margin-left: 0;
+				width: 128px;
+				background-position: 28px center;
+			}
+			li:last-child {
+				width: 114px;
+				background-position: -218px center;
+			}
+			li:nth-child(2) {
+				width: 80px;
+				background-position: center;
+			}
+		}
+	}
+}
